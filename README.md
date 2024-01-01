@@ -241,3 +241,8 @@ The following physical controls should be considered in the future once the crit
 
 **Summary/Recommendations:**
 
+- What are the biggest risks to the organization? Companies that are large enough to operate internationally should already have some forms of control that are currently not implemented, being this large they probably rely a lot on 3rd party services so "least level access" should already be a thing, as well as other data protection systems and backups. 
+
+- Which controls are most essential to implement immediately versus in the future? In my opinion the Access Control Management and Backup System. Data protection comes from both of these controls, and being an online business this linked to your reputation, which in the end is a companies income. Access control for security, backup for protection. Backup could be used even in the event of other things that eventually need to be implemented, such as the natural disaster recovery.
+
+- Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.? From a legal and reputable perspective the biggest risk is the compliance with both performing an online business and performing business in the EU.
